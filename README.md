@@ -16,7 +16,7 @@ Something like this:
 
 ![](https://2.bp.blogspot.com/-HS4TpQk49e4/WRbRv48PdyI/AAAAAAAAC98/55Q2Tc7Yg_4nFePQAVvm6jaNH3dL5ZtLgCLcB/s1600/slidercnc.png)
 
-Profiles that are also the frame of the machine and that are also joined together with 3d printed parts. Everything fixed to a desktop table or somewhat stiff enought surface of any kind.
+Profiles that are also the frame of the machine and that are also joined together with 3d printed parts. Everything fixed to a desktop table or something stiff enought for the light loads it may generate.
 
 
 # What you see its what you get:
