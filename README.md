@@ -1,5 +1,5 @@
 # PlasticSliderCNC
-A proof-of-concept, scalable CNC machine that uses 3d printer sliders instead of ball guides or linear bearings. This is a derivation of the design of the [NiCr Project](https://github.com/JMG1/NiCr)
+A proof-of-concept, scalable CNC machine that uses 3d printed sliders instead of ball guides or linear bearings. This is a derivation of the design of the [NiCr Project](https://github.com/JMG1/NiCr)
 
 ![](https://1.bp.blogspot.com/-Uc_LOJ0LulY/WRbOIUTTJiI/AAAAAAAAC9w/1ENcbq2rC6g5fGYeOn4uJ60Wui8xSa68ACLcB/s1600/3DprintedCNC.png)
 
