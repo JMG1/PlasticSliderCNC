@@ -19,9 +19,9 @@ Something like this:
 Profiles that are also the frame of the machine and that are also joined together with 3d printed parts. Everything fixed to a desktop table or something stiff enought for the light loads it may generate.
 
 
-# What you see its what you get:
+# What you see is what you get:
 
-The machine was a rapid prototype I desigend on summer of 2016, parts are not parametric and a lot of things can be refined. I have built this machine and currently I use it for carving (logos, pcbs, etc).
+The machine was a rapid prototype I designed on summer of 2016, parts are not parametric and a lot of things can be refined. I have built this machine and currently I use it for carving (logos, pcbs, etc).
 
 
 TODO:I'll be adding more info as I recover some videos and pictures of this machine in the real life.
