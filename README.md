@@ -6,6 +6,17 @@ A proof-of-concept, scalable CNC machine that uses 3d printed sliders instead of
 This machine is intended for light loads (soft carving, 3d printing, laser engraving...) and is scalable
 and cheap to build.
 
+# Real world pictures:
+![](https://4.bp.blogspot.com/-LeMVwbwi85w/WRrqXjGk8PI/AAAAAAAAC-s/td2N8oDseVwixNI0NvTt0ceYt_FR7LufwCLcB/s1600/photo_2017-05-16_13-54-44.jpg)
+
+![](https://1.bp.blogspot.com/-PJBrFHMUnJY/WRrqXEVGoQI/AAAAAAAAC-Q/7k_WSrVh0IEECpohBAawLVqHCDuixI4CACLcB/s1600/photo_2017-05-16_13-54-24.jpg)
+
+![](https://4.bp.blogspot.com/-knwlQCmjGHo/WRrqXXCh6xI/AAAAAAAAC-c/562gCBHNrZUkMaSNEXIPXIF3nj2HkY1VQCLcB/s1600/photo_2017-05-16_13-54-31.jpg)
+
+# In action:
+[plywood carving video](https://www.youtube.com/watch?v=l4OVjnENlb0&feature=youtu.be)
+
+
 # Motivation
 One of the major costs of building a 3d printer with a big work volume (for example 1000x2000x500mm) are the sliders and its frame. 
 Big sized linear bearings require big size calibrated rods, and they end up being very heavy. Linear guides prices are also high and, when they reach some sizes, they require a very stiff mount for being precise.
